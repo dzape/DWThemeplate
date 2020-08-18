@@ -14186,6 +14186,11 @@
   "RootNamespace": "DWThemeplate",
   "Documents": [
     {
+      "FilePath": "e:\\DWThemeplate\\Views\\Developer\\DeveloperView.cshtml",
+      "TargetPath": "Views\\Developer\\DeveloperView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\DWThemeplate\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14218,6 +14223,11 @@
     {
       "FilePath": "e:\\DWThemeplate\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\DWThemeplate\\Views\\Projects\\ProjectsView.cshtml",
+      "TargetPath": "Views\\Projects\\ProjectsView.cshtml",
       "FileKind": "mvc"
     }
   ],
