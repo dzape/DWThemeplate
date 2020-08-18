@@ -30,6 +30,7 @@ namespace DWThemeplate
 
             services.AddTransient<IProjectService, ProjectService>();
             services.AddTransient<IDeveloperService, DeveloperService>();
+            services.AddTransient<ISocialMediaService, SocialMediaService>();
         }
 
         private static NewtonsoftJsonPatchInputFormatter GetJsonPatchInputFormatter()
