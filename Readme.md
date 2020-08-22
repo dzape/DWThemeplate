@@ -16,4 +16,4 @@ To build this project you will need :
 * Documentation
   * [Getting started for ASP.NET (*not* .NET Core)](https://miniprofiler.com/dotnet/AspDotNet)
   * [Getting started for ASP.NET Core](https://miniprofiler.com/dotnet/AspDotNetCore)
-  *[Getting started in Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)
+  * [Getting started in Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)
