@@ -1,19 +1,20 @@
-﻿using System.Collections.Generic;
-using DWThemeplate.Core;
+﻿using System;
 using System.Linq;
+using System.Collections.Generic;
+using DWThemeplate.Core;
 
 namespace DWThemeplate.Data
 {
     public interface IDeveloperData
     {
-        IEnumrable<Developer> GetDeveloper();
+        IEnumerable <Developer> GetDevelopers();
     }
 
-    public class InMemoryDeveloperDate : IDeveloperData
+    public class InMemoryDeveloperData : IDeveloperData
     {
         readonly List<Developer> developers;
 
-        public InMemoryDeveloperDate()
+        public InMemoryDeveloperData()
         {
             developers = new List<Developer>
             {
@@ -21,7 +22,7 @@ namespace DWThemeplate.Data
             };
         }
 
-        public IEnumerable<Developer> GetDevelopers()
+        public IEnumerable <Developer> GetDevelopers()
         {
             return from r in developers
                 orderby r.Years

@@ -1,0 +1,9 @@
+/home/dzape/DWThemeplate/DWThemeplate.Core/bin/Debug/netstandard2.0/DWThemeplate.Core.deps.json
+/home/dzape/DWThemeplate/DWThemeplate.Core/bin/Debug/netstandard2.0/DWThemeplate.Core.dll
+/home/dzape/DWThemeplate/DWThemeplate.Core/bin/Debug/netstandard2.0/DWThemeplate.Core.pdb
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.csprojAssemblyReference.cache
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.AssemblyInfoInputs.cache
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.AssemblyInfo.cs
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.csproj.CoreCompileInputs.cache
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.dll
+/home/dzape/DWThemeplate/DWThemeplate.Core/obj/Debug/netstandard2.0/DWThemeplate.Core.pdb
