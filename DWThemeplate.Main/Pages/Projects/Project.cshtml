@@ -1,4 +1,24 @@
 @page
-@model ProjectModel
+@model ProjectModel 
 
-@Model.Message
+<form method="GET">
+    <div class="from-group">
+        <div class="input-group">
+            <input type="search" class="from-control" value="" name="searchTerm"/>
+            <span class="input-group-brtn">
+                <button class="btn btn-default">
+                    <i class="fas fa-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<th class="table">
+    @foreach (var item in @Model.Projects)
+    {
+        <td>@item.ProjectName</td>
+        <td>@item.Tehnologys</td>
+        <td>@item.About</td>
+    }
+</th>

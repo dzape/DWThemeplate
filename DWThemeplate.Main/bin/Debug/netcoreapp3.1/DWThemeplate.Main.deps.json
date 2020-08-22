@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "DWThemeplate.Main/1.0.0": {
         "dependencies": {
+          "DWThemeplate.Data": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +313,25 @@
         },
         "compile": {
           "DWThemeplate.Main.dll": {}
+        }
+      },
+      "DWThemeplate.Core/1.0.0": {
+        "runtime": {
+          "DWThemeplate.Core.dll": {}
+        },
+        "compile": {
+          "DWThemeplate.Core.dll": {}
+        }
+      },
+      "DWThemeplate.Data/1.0.0": {
+        "dependencies": {
+          "DWThemeplate.Core": "1.0.0"
+        },
+        "runtime": {
+          "DWThemeplate.Data.dll": {}
+        },
+        "compile": {
+          "DWThemeplate.Data.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2010,6 +2030,16 @@
   },
   "libraries": {
     "DWThemeplate.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DWThemeplate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DWThemeplate.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
