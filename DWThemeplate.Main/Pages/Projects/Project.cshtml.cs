@@ -26,6 +26,11 @@ namespace DWThemeplate.Main.Pages.Projects
         public void OnGet(string searchTerm)
         {
             Projects = projectData.GetProjects(searchTerm);
+            
+            if(Projects == null)
+            {
+                RedirectToPage("./NotFound");
+            }
 
         }
     }

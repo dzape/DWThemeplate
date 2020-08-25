@@ -14422,6 +14422,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/dzape/DWThemeplate/DWThemeplate.Main/Pages/Projects/NotFound.cshtml",
+      "TargetPath": "Pages\\Projects\\NotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/DWThemeplate/DWThemeplate.Main/Pages/Projects/ProjectDetails.cshtml",
+      "TargetPath": "Pages\\Projects\\ProjectDetails.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/dzape/DWThemeplate/DWThemeplate.Main/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"

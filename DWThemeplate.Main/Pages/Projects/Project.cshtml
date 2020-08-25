@@ -1,6 +1,8 @@
 @page
 @model ProjectModel 
 
+<h1> Yoo u can search my projects</h1>
+
 <form method="GET">
     <div class="from-group">
         <div class="input-group">
@@ -14,11 +16,52 @@
     </div>
 </form>
 
-<th class="table">
+<table>
     @foreach (var item in @Model.Projects)
     {
-        <td>@item.ProjectName</td>
-        <td>@item.Tehnologys</td>
-        <td>@item.About</td>
+        <thead>
+
+        <tr>
+        <th>@item.ProjectName</th>
+        <tr>
+
+        <tr>
+        <th>@item.Tehnologys</th>
+        </tr>
+
+        <tr>
+        <th>@item.About</th>
+        </tr>
+
+        <tr>
+        <th>
+            <a class="btn btn-lg"
+                style="background-color: blue;"
+                href="/Projects/ProjectDetails/@item.Id">
+                <i class="glyphicon glyphicon-zoom-in"></i>
+            </a>
+        </th>
+        </tr>
+
+        </thead>
     }
-</th>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</tbody>
+</table>

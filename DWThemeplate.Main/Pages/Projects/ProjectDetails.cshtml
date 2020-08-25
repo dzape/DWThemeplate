@@ -1,0 +1,21 @@
+@page "{projectId:int}"
+@model ProjectDetailsModel
+@{
+    ViewData["Title"] = "ProjectDetails";
+}
+
+<div> Project Details .</div>
+
+<h1>
+    ProjectName : @Model.Project.ProjectName
+</h1>
+
+<div>
+    Project Tehnologys : @Model.Project.Tehnologys
+</div>
+
+<div>
+    About : @Model.Project.About
+</div>
+
+<a asp-page = "./Project" class="btn btn-default" style="background-color: black;"> All Projects .</a>
