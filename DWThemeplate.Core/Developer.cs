@@ -11,20 +11,4 @@ namespace DWThemeplate.Core
         public string About { get; set; }
 
     }
-
-    public enum Technologies
-    {
-       Python,
-       Java,
-       Ruby,
-       Scala,
-       Cpp,
-       SQL,
-       Go,
-       Kotline,
-       TypeScript,
-       Swift,
-       JavaScript
-    }
-
 }

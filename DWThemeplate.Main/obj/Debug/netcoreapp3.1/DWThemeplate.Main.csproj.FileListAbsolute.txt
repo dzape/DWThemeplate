@@ -43,3 +43,4 @@
 /home/dzape/DWThemeplate/DWThemeplate.Main/bin/Debug/netcoreapp3.1/DWThemeplate.Core.pdb
 /home/dzape/DWThemeplate/DWThemeplate.Main/obj/Debug/netcoreapp3.1/Razor/Pages/Projects/NotFound.cshtml.g.cs
 /home/dzape/DWThemeplate/DWThemeplate.Main/obj/Debug/netcoreapp3.1/Razor/Pages/Projects/ProjectDetails.cshtml.g.cs
+/home/dzape/DWThemeplate/DWThemeplate.Main/obj/Debug/netcoreapp3.1/Razor/Pages/Projects/ProjectEdit.cshtml.g.cs

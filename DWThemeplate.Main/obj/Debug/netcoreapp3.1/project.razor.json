@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/dzape/DWThemeplate/DWThemeplate.Main/Pages/Projects/ProjectEdit.cshtml",
+      "TargetPath": "Pages\\Projects\\ProjectEdit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/dzape/DWThemeplate/DWThemeplate.Main/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
