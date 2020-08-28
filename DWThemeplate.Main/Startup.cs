@@ -27,6 +27,8 @@ namespace DWThemeplate.Main
             services.AddSingleton<IDeveloperData,InMemoryDeveloperData>();
             services.AddSingleton<IProjectData,InMemoryProjectData>();
 
+            services.AddAuthentication(); //cokie based :)
+
             services.AddRazorPages();
         }
 
@@ -58,3 +60,6 @@ namespace DWThemeplate.Main
         }
     }
 }
+
+
+// cookie based autho 

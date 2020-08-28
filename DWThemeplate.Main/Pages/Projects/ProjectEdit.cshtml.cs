@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using DWThemeplate.Data;
 using DWThemeplate.Core;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DWThemeplate.Main.Pages.Projects
 {
+    //[Authorize] //(Roles = "Administrator") // claim based autho (user id ... )
     public class ProjectEditModel : PageModel
     {
         private readonly IProjectData projectData;
@@ -25,6 +27,7 @@ namespace DWThemeplate.Main.Pages.Projects
             this.htmlHelper = htmlHelper;
         } 
 
+        //[AllowAnonymous]
         public IActionResult OnGet(int projectId)
         {
             Language = htmlHelper.GetEnumSelectList<LanguagesType>();
@@ -38,11 +41,23 @@ namespace DWThemeplate.Main.Pages.Projects
 
         public IActionResult OnPost()
         {
-            Language = htmlHelper.GetEnumSelectList<LanguagesType>();
-            Project = projectData.Update(Project);
+            if(!ModelState.IsValid)
+            {
+                Language = htmlHelper.GetEnumSelectList<LanguagesType>();
+                return Page();
+            }
+            if(Project.Id > 0)
+            {
+                projectData.Update(Project);
+            }
+            else
+            {
+                //projectData.Add(Project);
+            }
+            
             projectData.Commit();
+            return RedirectToPage("./ProjectDetails", new { });
 
-            return Page();
         }
     }
 }

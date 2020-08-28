@@ -1,15 +1,14 @@
 @page
 @model DeveloperModel
 
-@Model.message
-
 <table class="table">
     @foreach (var developer in Model.Developers)
     {
         <tr>
             <td>@developer.UserName</td>
             <td>@developer.Years</td>
-            <td>@developer.About</td>
         </tr>
+        
+        <a><td>@developer.About</td></a>
     }
 </table>

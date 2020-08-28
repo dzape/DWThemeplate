@@ -1,4 +1,3 @@
-using System;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
@@ -12,7 +11,6 @@ namespace DWThemeplate.Main.Pages.Developers
         private readonly IConfiguration config;
         private readonly IDeveloperData developerData;
 
-        public string  message { get; set; }
         public IEnumerable<Developer> Developers { get; set; }
 
         public DeveloperModel(  IConfiguration config,
@@ -24,7 +22,6 @@ namespace DWThemeplate.Main.Pages.Developers
 
         public void OnGet()
         {
-            message = "HEllo";
             Developers = developerData.GetDevelopers();
         }
     }

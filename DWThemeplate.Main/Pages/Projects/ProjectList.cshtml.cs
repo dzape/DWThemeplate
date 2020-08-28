@@ -7,7 +7,7 @@ using DWThemeplate.Data;
 
 namespace DWThemeplate.Main.Pages.Projects
 {
-    public class ProjectModel : PageModel
+    public class ProjectListModel : PageModel
     {
 
         private readonly IConfiguration config;
@@ -16,7 +16,7 @@ namespace DWThemeplate.Main.Pages.Projects
         public IEnumerable <Project> Projects{ get; set; }
         public string Message { get; set; } 
 
-        public ProjectModel(    IConfiguration config,
+        public ProjectListModel(    IConfiguration config,
                                 IProjectData projectData)
         {
             this.config = config;
@@ -31,7 +31,6 @@ namespace DWThemeplate.Main.Pages.Projects
             {
                 RedirectToPage("./NotFound");
             }
-
         }
     }
 }

@@ -1,26 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "/home/dzape/DWThemeplate/DWThemeplate.Main/DWThemeplate.Main.csproj": {}
+    "E:\\DWThemeplate-1\\DWThemeplate.Main\\DWThemeplate.Main.csproj": {}
   },
   "projects": {
-    "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj": {
+    "E:\\DWThemeplate-1\\DWThemeplate.Core\\DWThemeplate.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj",
+        "projectUniqueName": "E:\\DWThemeplate-1\\DWThemeplate.Core\\DWThemeplate.Core.csproj",
         "projectName": "DWThemeplate.Core",
-        "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj",
-        "packagesPath": "/home/dzape/.nuget/packages/",
-        "outputPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/obj/",
+        "projectPath": "E:\\DWThemeplate-1\\DWThemeplate.Core\\DWThemeplate.Core.csproj",
+        "packagesPath": "C:\\Users\\dzape\\.nuget\\packages\\",
+        "outputPath": "E:\\DWThemeplate-1\\DWThemeplate.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dzape/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dzape\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -53,33 +56,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj": {
+    "E:\\DWThemeplate-1\\DWThemeplate.Data\\DWThemeplate.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj",
+        "projectUniqueName": "E:\\DWThemeplate-1\\DWThemeplate.Data\\DWThemeplate.Data.csproj",
         "projectName": "DWThemeplate.Data",
-        "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj",
-        "packagesPath": "/home/dzape/.nuget/packages/",
-        "outputPath": "/home/dzape/DWThemeplate/DWThemeplate.Data/obj/",
+        "projectPath": "E:\\DWThemeplate-1\\DWThemeplate.Data\\DWThemeplate.Data.csproj",
+        "packagesPath": "C:\\Users\\dzape\\.nuget\\packages\\",
+        "outputPath": "E:\\DWThemeplate-1\\DWThemeplate.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dzape/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dzape\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj": {
-                "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj"
+              "E:\\DWThemeplate-1\\DWThemeplate.Core\\DWThemeplate.Core.csproj": {
+                "projectPath": "E:\\DWThemeplate-1\\DWThemeplate.Core\\DWThemeplate.Core.csproj"
               }
             }
           }
@@ -110,33 +116,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/dzape/DWThemeplate/DWThemeplate.Main/DWThemeplate.Main.csproj": {
+    "E:\\DWThemeplate-1\\DWThemeplate.Main\\DWThemeplate.Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dzape/DWThemeplate/DWThemeplate.Main/DWThemeplate.Main.csproj",
+        "projectUniqueName": "E:\\DWThemeplate-1\\DWThemeplate.Main\\DWThemeplate.Main.csproj",
         "projectName": "DWThemeplate.Main",
-        "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Main/DWThemeplate.Main.csproj",
-        "packagesPath": "/home/dzape/.nuget/packages/",
-        "outputPath": "/home/dzape/DWThemeplate/DWThemeplate.Main/obj/",
+        "projectPath": "E:\\DWThemeplate-1\\DWThemeplate.Main\\DWThemeplate.Main.csproj",
+        "packagesPath": "C:\\Users\\dzape\\.nuget\\packages\\",
+        "outputPath": "E:\\DWThemeplate-1\\DWThemeplate.Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dzape/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dzape\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj": {
-                "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj"
+              "E:\\DWThemeplate-1\\DWThemeplate.Data\\DWThemeplate.Data.csproj": {
+                "projectPath": "E:\\DWThemeplate-1\\DWThemeplate.Data\\DWThemeplate.Data.csproj"
               }
             }
           }
@@ -167,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

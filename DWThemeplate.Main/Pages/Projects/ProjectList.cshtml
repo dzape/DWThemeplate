@@ -1,5 +1,5 @@
 @page
-@model ProjectModel 
+@model ProjectListModel 
 
 <h1> Yoo u can search my projects</h1>
 
@@ -22,11 +22,20 @@
         <thead>
 
         <tr>
-        <th>@item.ProjectName</th>
+          <th>@item.ProjectName</th>
         <tr>
 
         <tr>
-        <th>@item.Language</th>
+          <th>
+            
+            @foreach (var languages in item.Language)
+            {
+                <li>
+                  @languages
+                </li>
+            }
+
+          </th>  
         </tr>
 
         <tr>
@@ -52,23 +61,4 @@
 
         </thead>
     }
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-  </tr>
-</tbody>
 </table>

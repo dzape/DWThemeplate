@@ -11,11 +11,24 @@
 </h1>
 
 <div>
-    Project Tehnologys : @Model.Project.Language
+
+    Project Language : 
+
+        @foreach (var languages in Model.Project.Language)
+        {
+            <li>
+                @languages
+            </li>
+        }
+
+</div>
+
+<div>
+    GitUrl = "https://github.com/OdeToCode/OdeToFood",
 </div>
 
 <div>
     About : @Model.Project.About
 </div>
 
-<a asp-page = "./Project" class="btn btn-default" style="background-color: black;"> All Projects .</a>
+<a asp-page = "./Project" class="btn btn-default" style="background-color: red;"> All Projects .</a>
