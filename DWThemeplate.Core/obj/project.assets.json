@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj",
+      "projectUniqueName": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/DWThemeplate.Core.csproj",
       "projectName": "DWThemeplate.Core",
-      "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj",
+      "projectPath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/DWThemeplate.Core.csproj",
       "packagesPath": "/home/dzape/.nuget/packages/",
-      "outputPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/obj/",
+      "outputPath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dzape/.nuget/NuGet/NuGet.Config"

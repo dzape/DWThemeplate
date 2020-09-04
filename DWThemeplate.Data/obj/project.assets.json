@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj",
+      "projectUniqueName": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Data/DWThemeplate.Data.csproj",
       "projectName": "DWThemeplate.Data",
-      "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Data/DWThemeplate.Data.csproj",
+      "projectPath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Data/DWThemeplate.Data.csproj",
       "packagesPath": "/home/dzape/.nuget/packages/",
-      "outputPath": "/home/dzape/DWThemeplate/DWThemeplate.Data/obj/",
+      "outputPath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dzape/.nuget/NuGet/NuGet.Config"
@@ -219,8 +219,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj": {
-              "projectPath": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj"
+            "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/DWThemeplate.Core.csproj": {
+              "projectPath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/DWThemeplate.Core.csproj"
             }
           }
         }

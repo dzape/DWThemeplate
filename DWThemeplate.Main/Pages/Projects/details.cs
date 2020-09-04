@@ -1,28 +1,25 @@
-using System;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Configuration;
-using System.Collections.Generic;
-using DWThemeplate.Core;
-using DWThemeplate.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using DWThemeplate.Data;
+using DWThemeplate.Core;
 
-namespace DWThemeplate.Main.Pages.Projects
+namespace DWThemeplate.Pages.Projects
 {
-    public class ProjectDetailsModel : PageModel
+    public class detailsModel : PageModel
     {
+        private readonly IProjectsData projectData;
         public Project Project { get; set; }
 
-        private readonly IProjectData projectData;
-
-        public ProjectDetailsModel (IProjectData projectData)
+        public detailsModel(IProjectsData projectData)
         {
             this.projectData = projectData;
         }
+
         public IActionResult OnGet(int projectId)
         {
             Project = projectData.GetById(projectId);
-            if(Project == null)
+
+            if (Project == null)
             {
                 return RedirectToPage("./NotFound");
             }

@@ -25,7 +25,7 @@ namespace DWThemeplate.Main
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IDeveloperData,InMemoryDeveloperData>();
-            services.AddSingleton<IProjectData,InMemoryProjectData>();
+            services.AddSingleton<IProjectsData,InMemoryProjectsData>();
 
             services.AddAuthentication(); //cokie based :)
 

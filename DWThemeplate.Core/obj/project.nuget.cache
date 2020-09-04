@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6GRWk2qxnO5Yv2Z62a81qdu3S6ZChDz4IjnAH7CXVnoTri81NLG8KhpTqwTCbXc1kNUCMv1I8JwC1judiY1MA==",
+  "dgSpecHash": "sz6RoD1r7eBzPlDyec06ddqU4HHtnLnWTV5BcH73dM8eiWTrlWfJkxMFUNLg42t380k66X7F8FoJEOQQXWc/Cw==",
   "success": true,
-  "projectFilePath": "/home/dzape/DWThemeplate/DWThemeplate.Core/DWThemeplate.Core.csproj",
+  "projectFilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Core/DWThemeplate.Core.csproj",
   "expectedPackageFiles": [
     "/home/dzape/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/dzape/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

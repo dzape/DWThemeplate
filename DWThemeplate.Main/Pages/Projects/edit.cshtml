@@ -1,0 +1,30 @@
+@page "{ProjectsId:int}"
+@model DWThemeplate.Pages.Projects.editModel
+@{
+}
+
+<h2>Edit @Model.Projects.ProjectsName</h2>
+
+<form method="POST">
+
+    <input type="hidden" asp-for="Projects.Id" />
+
+    <div class="from-group">
+        <label asp-for="Projects.ProjectsName"></label>
+        <input asp-for="Projects.ProjectsName" class="from-control" />
+    </div>
+
+    <div class="from-group">
+        <label asp-for="Projects.Language"></label>
+        <select class="from-control" asp-for="Projects.Language"
+                asp-items="Model.Language">
+        </select>
+    </div>
+
+    <div class="from-group">
+        <label asp-for="Projects.About"></label>
+        <input asp-for="Projects.About" class="from-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="background-color: blue;"> Save Projects !</button>
+</form>
