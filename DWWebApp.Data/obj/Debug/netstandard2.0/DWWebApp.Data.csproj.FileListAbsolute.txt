@@ -1,0 +1,12 @@
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.deps.json
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.dll
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.pdb
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Core.dll
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Core.pdb
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csprojAssemblyReference.cache
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.AssemblyInfoInputs.cache
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.AssemblyInfo.cs
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csproj.CopyComplete
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.dll
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.pdb
+E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csproj.CoreCompileInputs.cache

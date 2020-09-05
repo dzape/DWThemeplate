@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ym90HtqOwIfIWtUrJY+StR/McNBfPbcJ5fIZBDfYlpuhyx/I1G2kqEpWa9VNW3997V5JLF9QlS3mkMD32Opn8A==",
+  "success": true,
+  "projectFilePath": "E:\\DWThemeplateWebApp\\DWWebApp\\DWWebApp.Core\\DWWebApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzape\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dzape\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
