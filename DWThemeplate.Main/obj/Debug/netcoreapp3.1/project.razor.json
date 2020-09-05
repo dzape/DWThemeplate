@@ -14390,6 +14390,67 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "DWThemeplate.Main",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Developers/profile.cshtml",
+      "TargetPath": "Pages\\Developers\\profile.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Projects/list.cshtml",
+      "TargetPath": "Pages\\Projects\\list.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Projects/edit.cshtml",
+      "TargetPath": "Pages\\Projects\\edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Projects/NotFound.cshtml",
+      "TargetPath": "Pages\\Projects\\NotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/dzape/Documents/DWThemeplateWebApp/DWThemeplate.Main/Pages/Projects/details.cshtml",
+      "TargetPath": "Pages\\Projects\\details.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
