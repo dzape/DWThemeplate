@@ -7,3 +7,13 @@ E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.C
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.csproj.CoreCompileInputs.cache
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.dll
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.pdb
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\bin\Debug\netstandard2.0\DWWebApp.Core.deps.json
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\bin\Debug\netstandard2.0\DWWebApp.Core.dll
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\bin\Debug\netstandard2.0\DWWebApp.Core.pdb
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.csproj.AssemblyReference.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.AssemblyInfoInputs.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.AssemblyInfo.cs
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.csproj.CoreCompileInputs.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.dll
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Core\obj\Debug\netstandard2.0\DWWebApp.Core.pdb

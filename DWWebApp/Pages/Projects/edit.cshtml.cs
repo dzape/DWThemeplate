@@ -3,7 +3,6 @@ using DWWebApp.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.VisualBasic.CompilerServices;
 using System.Collections.Generic;
 
 namespace DWWebApp.Pages.Projects

@@ -1,10 +1,10 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using DWWebApp.Data;
-using DWWebApp.Core;
-
 namespace DWWebApp.Pages.Projects
 {
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.AspNetCore.Mvc.RazorPages;
+    using DWWebApp.Data;
+    using DWWebApp.Core;
+
     public class detailsModel : PageModel
     {
         private readonly IProjectsData projectData;

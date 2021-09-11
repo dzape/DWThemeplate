@@ -7,17 +7,16 @@
 <h2>@Model.Project.ProjectsName</h2>
 
 <div>
-    Project Language :
+        Project Language :
 
-    @foreach (var languages in Model.Project.Language)
-    {
-        <li>
-            @languages
-        </li>
-    }
-
-
+        @foreach (var languages in Model.Project.Language)
+        {
+            <li>
+                @languages
+            </li>
+        }
 </div>
+
 <div>
     About : @Model.Project.About
 </div>

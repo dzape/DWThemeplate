@@ -4,12 +4,14 @@
 }
 
 <h1>
-    Developer - @Model.Developer.devUsername
-    Years - <thead>@Model.Developer.devYears</thead>
+    Developer Username : @Model.Developer.devUsername @Model.Developer.devId
 </h1>
 
-<table>
-        
-    <thead>@Model.Developer.devAbout</thead>
-    
-<</table>
+<div>
+    <table>
+        Years : <thead>@Model.Developer.devYears</thead>
+        <p>
+            @Model.Developer.devAbout
+        </p>
+    </table>    
+</div>

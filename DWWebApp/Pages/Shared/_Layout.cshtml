@@ -43,11 +43,20 @@
             &copy; 2020 - DWWebApp - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
-
+   
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
-    @RenderSection("Scripts", required: false)
+    <!-- Footer -->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy;2021 - Developers Themeplate</p>
+            <img src="~/favicon.ico"/>
+        </footer>
+    </div>
+
 </body>
 </html>

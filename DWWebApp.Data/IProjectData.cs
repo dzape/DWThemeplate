@@ -1,9 +1,8 @@
-﻿using System.Linq;
-using System.Collections.Generic;
-using DWWebApp.Core;
-
-namespace DWWebApp.Data
+﻿namespace DWWebApp.Data
 {
+    using System.Linq;
+    using System.Collections.Generic;
+    using DWWebApp.Core;
     public interface IProjectsData
     {
         IEnumerable<Project> GetProjectss(string name);

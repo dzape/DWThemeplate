@@ -10,3 +10,15 @@ E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.D
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.dll
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.pdb
 E:\DWThemeplateWebApp\DWWebApp\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csproj.CoreCompileInputs.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.deps.json
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.dll
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Data.pdb
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Core.dll
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\bin\Debug\netstandard2.0\DWWebApp.Core.pdb
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csproj.AssemblyReference.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.AssemblyInfoInputs.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.AssemblyInfo.cs
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.csproj.CoreCompileInputs.cache
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.dll
+E:\Development\Dotnet\DWThemeplate\DWWebApp.Data\obj\Debug\netstandard2.0\DWWebApp.Data.pdb

@@ -1,10 +1,9 @@
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using DWWebApp.Core;
-using DWWebApp.Data;
-using Microsoft.AspNetCore.Mvc;
-
 namespace DWWebApp.Pages.Developers
 {
+    using Microsoft.AspNetCore.Mvc.RazorPages;
+    using DWWebApp.Core;
+    using DWWebApp.Data;
+    using Microsoft.AspNetCore.Mvc;
     public class profileModel : PageModel
     {
         private readonly IDeveloperData developerData;
@@ -21,9 +20,8 @@ namespace DWWebApp.Pages.Developers
 
             if(Developer == null)
             {
-                return RedirectToPage("./NotFound");
+                return RedirectToPage("../Error");
             }
-
             return Page();
         }
     }

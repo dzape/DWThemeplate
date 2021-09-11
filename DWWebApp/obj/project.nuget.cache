@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYd3QCJQpWK3sSBP7bs1wZVwIi6WUsIGdwFKDR3NIsSMDcSckovyS3tyG3mZYNyAc9Ja3xWptd/VvpNCT6yVKg==",
+  "dgSpecHash": "TjPNtAS1SQlHDMNE2WYqklw291dzr1UlP27NheXeEWNSKQewi5+0EEovWITjbbuP37t1mkeF64crHe4mxJ9IOw==",
   "success": true,
-  "projectFilePath": "E:\\DWThemeplateWebApp\\DWWebApp\\DWWebApp\\DWWebApp.csproj",
+  "projectFilePath": "E:\\Development\\Dotnet\\DWThemeplate\\DWWebApp\\DWWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dzape\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\dzape\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
